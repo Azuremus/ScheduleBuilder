@@ -1,0 +1,8 @@
+C:\devl\Projects\ScheduBuild\bin\Debug\ScheduBuild.exe.config
+C:\devl\Projects\ScheduBuild\bin\Debug\ScheduBuild.exe
+C:\devl\Projects\ScheduBuild\bin\Debug\ScheduBuild.pdb
+C:\devl\Projects\ScheduBuild\obj\Debug\ScheduBuild.csproj.AssemblyReference.cache
+C:\devl\Projects\ScheduBuild\obj\Debug\ScheduBuild.csproj.SuggestedBindingRedirects.cache
+C:\devl\Projects\ScheduBuild\obj\Debug\ScheduBuild.csproj.CoreCompileInputs.cache
+C:\devl\Projects\ScheduBuild\obj\Debug\ScheduBuild.exe
+C:\devl\Projects\ScheduBuild\obj\Debug\ScheduBuild.pdb
